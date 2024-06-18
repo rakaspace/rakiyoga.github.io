@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About Me</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    
+    .profile-image {
+      float: left;
+      margin-right: 20px;
+      width: 200px;
+      height: 200px;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+    
+    h1 {
+      margin-top: 0;
+    }
+    
+    .specialty {
+      font-style: italic;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="profile.jpg" alt="Your Name" class="profile-image">
+    <h1>John Doe</h1>
+    <p class="specialty">Web Developer</p>
+    <p>Hi there! My name is John Doe, and I'm a passionate web developer with a strong focus on creating modern, responsive, and user-friendly websites.</p>
+    
+    <h2>My Specialty</h2>
+    <p>As a web developer, I specialize in building dynamic and interactive websites using HTML, CSS, and JavaScript. I'm proficient in popular frameworks like React and Angular, and I'm always eager to learn new technologies to stay ahead of the curve.</p>
+    
+    <h2>My Approach</h2>
+    <p>I believe in a collaborative approach to web development, working closely with clients to understand their needs and goals. I strive to create websites that not only look great but also provide a seamless user experience.</p>
+    
+    <h2>Get in Touch</h2>
+    <p>If you're interested in working with me or would like to learn more about my services, feel free to reach out at <a href="mailto:john.doe@example.com">john.doe@example.com</a>.</p>
+  </div>
+</body>
+</html>
