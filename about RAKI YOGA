@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About Me</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    main {
+      padding: 40px;
+    }
+    
+    .profile-pic {
+      float: left;
+      margin-right: 20px;
+      max-width: 200px;
+      height: auto;
+    }
+    
+    h2 {
+      margin-top: 0;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>About Me</h1>
+  </header>
+  
+  <main>
+    <img src="profile.jpg" alt="Your Photo" class="profile-pic">
+    
+    <h2>My Name and Specialty</h2>
+    <p>My name is Rakesh Singh, and I have been practicing Ayurveda for over 10 years. I specialize in treating people with autoimmune disorders and cancer.</p>
+    
+    <h2>My Approach</h2>
+    <p>As an Ayurvedic practitioner, my goal is to help my clients achieve optimal health and well-being through natural and holistic methods. I believe in treating the root cause of the problem rather than just the symptoms.</p>
+    
+    <h2>My Mission</h2>
+    <p>My mission is to empower my clients to take control of their health and well-being. I aim to provide personalized treatment plans that address their unique needs and help them achieve their health goals.</p>
+    
+    <h2>Client Goal</h2>
+    <p>The goal of my clients is to achieve freedom from medicines and supplements by addressing the underlying causes of their health issues. Through Ayurvedic treatments and lifestyle modifications, I help my clients restore balance and harmony in their bodies and minds.</p>
+  </main>
+</body>
+</html>
